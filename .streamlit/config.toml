@@ -1,0 +1,6 @@
+# 라이트/다크 모두 포인트 컬러를 지정한다. (브라우저/OS 설정에 따라 자동 전환)
+[theme.light]
+primaryColor = "#2E9E5B"
+
+[theme.dark]
+primaryColor = "#3DBE75"
