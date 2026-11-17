@@ -1,0 +1,3 @@
+data/
+.playwright-mcp/
+__pycache__/
